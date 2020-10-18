@@ -13,17 +13,27 @@ Trip duration for most bike users typically ranges between 4 to 6 hours.
 
 
 Bike Duration by Gender
-As the graph shown below, both male and female typically rents bikes from 4 to 6 hours, but male rental is far more popular among males.
+As the graph shown below, both male and female typically rents bikes from 4 to 6 hours, but bike rental is far more popular among males.
 ![Bike Duration by Gender](https://github.com/emmagao1/bikesharing/blob/main/Images/Bike%20Duration%20by%20Gender.PNG)
 
+Popular rental hours during weekday
+Bike users typically rent bikes between 8am to 9am in the morning and between 5pm to 6pm in the evening. It shows most bike users rents bikes for commute.
 ![Trips weekday by hour](https://github.com/emmagao1/bikesharing/blob/main/Images/Trips%20weekday%20by%20hour.PNG)
 
+Popular rental hours during weekday by gender
+Popular rental hours remains the same between male and female but male customer is 50% more likely to use the bike rental services.
 ![Trips weekday by gender by hour](https://github.com/emmagao1/bikesharing/blob/main/Images/Trips%20weekday%20by%20gender%20by%20hour.PNG)
 
+User type by gender on weekdays
+There are more male subscribers then female. There is not a significant difference from female customer and subscriber on bike rental activities.
 ![User types by gender weekday](https://github.com/emmagao1/bikesharing/blob/main/Images/User%20types%20by%20gender%20weekday.PNG)
 
+Customer
+Graph shows majority users are subscripbers.
 ![Customer](https://github.com/emmagao1/bikesharing/blob/main/Images/Customer.PNG)
 
+Peak time
+Peak time is usually in the morning around 8 to 9 am and in the evening around 5 to 6 pm.
 ![Augst Peak Hour](https://github.com/emmagao1/bikesharing/blob/main/Images/August%20Peak%20Hours.PNG)
 
 ## Summary
