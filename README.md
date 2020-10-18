@@ -5,4 +5,17 @@ The purpose of the NYC bikesharing analysis is to help the city Des Moines to de
 
 ## Results
 
+Checked out times for Users
+![Bike Duration](https://github.com/emmagao1/bikesharing/blob/main/Images/Bike%20Duration.PNG)
+
+
+
+![Bike Duration by Gender](https://github.com/emmagao1/bikesharing/blob/main/Images/Bike%20Duration%20by%20Gender.PNG)
+
+![Trips weekday by hour](https://github.com/emmagao1/bikesharing/blob/main/Images/Trips%20weekday%20by%20hour.PNG)
+
+![Trips weekday by gender by hour](https://github.com/emmagao1/bikesharing/blob/main/Images/Trips%20weekday%20by%20gender%20by%20hour.PNG)
+
+![User types by gender weekday](https://github.com/emmagao1/bikesharing/blob/main/Images/User%20types%20by%20gender%20weekday.PNG)
+
 ## Summary
