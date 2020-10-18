@@ -8,6 +8,8 @@ Our research focused on bike duration, bike duration by gender, popular bike ren
 
 [link to dashboard](https://github.com/emmagao1/bikesharing/blob/main/Citibike_Challenge.twbx)
 
+Link to Tableau Public: https://public.tableau.com/profile/emma.gao#!/vizhome/Citibike_Challenge_16030415528150/NYCCitibikeanalysis?publish=yes
+
 1. Bike Duration for Users
 Trip duration for most bike users typically ranges between 4 to 6 hours.
 ![Bike Duration](https://github.com/emmagao1/bikesharing/blob/main/Images/Bike%20Duration.PNG)
